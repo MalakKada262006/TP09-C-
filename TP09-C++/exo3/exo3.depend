@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1793307677 source:c:\users\cli\onedrive\desktop\tp09-c++\exo3\electrique.cpp
+	"Electrique.hpp"
+	<iostream>
+
+1793307650 c:\users\cli\onedrive\desktop\tp09-c++\exo3\electrique.hpp
+	"Vehicule.hpp"
+
+1793307297 c:\users\cli\onedrive\desktop\tp09-c++\exo3\vehicule.hpp
+	<string>
+
+1793307767 source:c:\users\cli\onedrive\desktop\tp09-c++\exo3\hybride.cpp
+	"Hybride.hpp"
+	<iostream>
+
+1793307715 c:\users\cli\onedrive\desktop\tp09-c++\exo3\hybride.hpp
+	"Thermique.hpp"
+	"Electrique.hpp"
+
+1793307593 c:\users\cli\onedrive\desktop\tp09-c++\exo3\thermique.hpp
+	"Vehicule.hpp"
+
+1793307812 source:c:\users\cli\onedrive\desktop\tp09-c++\exo3\main.cpp
+	"Hybride.hpp"
+	<iostream>
+	<windows.h>
+
+1793307620 source:c:\users\cli\onedrive\desktop\tp09-c++\exo3\thermique.cpp
+	"Thermique.hpp"
+	<iostream>
+
+1793307551 source:c:\users\cli\onedrive\desktop\tp09-c++\exo3\vehicule.cpp
+	"Vehicule.hpp"
+	<iostream>
+

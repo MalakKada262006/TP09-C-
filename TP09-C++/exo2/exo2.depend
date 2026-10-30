@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1793287591 source:c:\users\cli\onedrive\desktop\tp09-c++\exo2\comptable.cpp
+	"Comptable.hpp"
+	<iostream>
+
+1793287621 c:\users\cli\onedrive\desktop\tp09-c++\exo2\comptable.hpp
+
+1793287328 source:c:\users\cli\onedrive\desktop\tp09-c++\exo2\employepolyvalent.cpp
+	"EmployePolyvalent.hpp"
+	<iostream>
+
+1793287378 c:\users\cli\onedrive\desktop\tp09-c++\exo2\employepolyvalent.hpp
+	"Technicien.hpp"
+	"Comptable.hpp"
+
+1793288526 c:\users\cli\onedrive\desktop\tp09-c++\exo2\technicien.hpp
+
+1793284657 source:c:\users\cli\onedrive\desktop\tp09-c++\exo2\main.cpp
+	"EmployePolyvalent.hpp"
+	<iostream>
+	<windows.h>
+
+1793287648 source:c:\users\cli\onedrive\desktop\tp09-c++\exo2\technicien.cpp
+	"Technicien.hpp"
+	<iostream>
+
